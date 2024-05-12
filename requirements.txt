@@ -1,0 +1,5 @@
+pymongo
+streamlit
+face_recognition
+numpy
+opencv-python
